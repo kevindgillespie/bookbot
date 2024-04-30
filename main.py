@@ -1,6 +1,7 @@
 def sort_on(dict):
     return dict["count"]
 
+#this for sure could be better
 def getLetterCountForBookContent(bookContent):
     letter_dict = {}
     letter_list = []
